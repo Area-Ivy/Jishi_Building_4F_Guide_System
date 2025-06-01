@@ -95,13 +95,13 @@
 
 ## 项目结构
 src/
-├── App.vue            # 根组件，负责整体布局和主要逻辑协调 \\
-├── main.js            # 应用入口文件，初始化Vue应用和插件\\
-├── assets/            # 静态资源目录\\
-│   └── 济事楼地图.jpg   # 地图图片\\
-└── components/        # 可复用UI组件目录\\
-    ├── MapView.vue    # 地图显示与交互组件\\
-    ├── InfoPanel.vue  # 信息展示面板组件\\
+├── App.vue            # 根组件，负责整体布局和主要逻辑协调 
+├── main.js            # 应用入口文件，初始化Vue应用和插件
+├── assets/            # 静态资源目录
+│   └── 济事楼地图.jpg   # 地图图片
+└── components/        # 可复用UI组件目录
+    ├── MapView.vue    # 地图显示与交互组件
+    ├── InfoPanel.vue  # 信息展示面板组件
     └── SearchBox.vue  # 搜索输入框组件
 
 
