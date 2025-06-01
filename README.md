@@ -104,6 +104,7 @@ src/
     ├── InfoPanel.vue  # 信息展示面板组件
     └── SearchBox.vue  # 搜索输入框组件
 
+
 ## 使用说明
 
 1.  **地图交互**:
